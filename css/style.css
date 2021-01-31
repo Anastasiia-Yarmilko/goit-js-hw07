@@ -1,0 +1,49 @@
+#categories,
+.images-list {
+  list-style: none;
+}
+
+.images-list {
+  list-style: none;
+}
+
+.gallery-img {
+  width: 400px;
+  height: 264px;
+  margin-right: 10px;
+}
+
+.gallery-item {
+  margin-bottom: 10px;
+}
+
+#ingredients {
+  margin-left: 20px;
+}
+
+#counter,
+#name-input,
+.greeting,
+#validation-input,
+#font-size-control,
+#text {
+  margin-left: 40px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+#value {
+  font-weight: bold;
+}
+
+#validation-input {
+  border: 3px solid #bdbdbd;
+}
+
+#validation-input.valid {
+  border-color: #4caf50;
+}
+
+#validation-input.invalid {
+  border-color: #f44336;
+}
